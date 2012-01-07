@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TopTal Todo</string>
+    <string name="quick_task_field_hint">Type the task title here</string>
+    <string name="add_button_text">Add</string>
+    <string name="empty_tasks_list_text">No tasks found :)</string>
+    <string name="create_task_activity_title">New Task</string>
+    <string name="task_title_label">Title</string>
+    <string name="task_details_label">Details</string>
+    <string name="task_title_hint">Enter the title of the Task</string>
+    <string name="task_details_hint">Enter the details of the task</string>
+    <string name="completed_check_label">Completed</string>
+    <string-array name="priorities">
+        <item >Low</item>
+        <item >Normal</item>
+        <item >High</item>
+    </string-array>
+        <string name="priority_prompt_label">Assign a Priority</string>
+        <string name="pritority_label">Priority</string>
+        <string name="save_button_title">Save</string>
+        <string name="edit_task">Edit Task</string>
+        <string name="edit_task_condensed">Edit</string>
+        <string name="remove_task">Remove task</string>
+        <string name="remove_task_condensed">Remove</string>
+        <string name="tasks_list_menu_title">Task Actions</string>
+        <string name="change_sort">Sort</string>
+        <string name="change_sort_condensed">Sort</string>
+        <string name="ascending_sort_label">Ascending order</string>
+        <string name="sort_by_label">Sort By</string>
+        <string name="sort_dialog_title">Sort Options</string>
+        <string name="title">Title</string>
+        <string name="priority">Priority</string>
+        <string name="done">Done</string>
+        <string name="creation_date">Creation Date</string>
+
+</resources>
